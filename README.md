@@ -3,6 +3,7 @@ A  Web Portal for crop Recommendation System.
 # demo
 ## Services
 ![](demo-images/Services.png)
+---
 
 ## Crop Handling
 ![](demo-images/choose_crop.png)
