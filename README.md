@@ -6,7 +6,7 @@ A  Web Portal for crop Recommendation System.
 
 ## Crop Handling
 ![](demo-images/choose_crop.png)
-<hr>
+
 ![](demo-images/SelectedCropDetail.png)
 
 ## Crop Planning
