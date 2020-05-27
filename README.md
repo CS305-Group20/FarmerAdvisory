@@ -10,14 +10,6 @@ Databases: MongoDB, MySQL and Neo4j (for graphs) <br>
 Tornado based Runtime Push Server <br>
 Website Design in HTML/CSS <br>
 # Some Screenshots of the Project
-## Services
-![](demo-images/Services.png)
-
-## Crop Handling
-![](demo-images/choose_crop.png)
-
-![](demo-images/SelectedCropDetail.png)
-
 ## Crop Planning
 ![](demo-images/CropRecommendation.png)
 
