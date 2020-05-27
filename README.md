@@ -9,7 +9,7 @@ Django framework for backend design <br>
 Databases: MongoDB, MySQL and Neo4j (for graphs) <br>
 Tornado based Runtime Push Server <br>
 Website Design in HTML/CSS <br>
-More information on design of the project here: https://github.com/CS305-Group20/FarmerAdvisory/blob/master/Design%20Document%20CS305_Group20.pdf
+More information on design of the project in the Design Document: https://github.com/CS305-Group20/FarmerAdvisory/blob/master/Design%20Document%20CS305_Group20.pdf
 # Some Screenshots of the Project
 ## Crop Planning
 ![](demo-images/CropRecommendation.png)
