@@ -15,3 +15,4 @@ Website Design in HTML/CSS <br>
 
 ## Diseases and Prevention Techniques
 ![](demo-images/Disease.png)
+More demo images/screenshots here: https://github.com/CS305-Group20/FarmerAdvisory/tree/master/demo-images
