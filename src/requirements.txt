@@ -5,7 +5,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.3
 Cython==0.29.16
-Django==3.0.4
+Django==3.0.7
 geojson==2.5.0
 idna==2.9
 mysqlclient==1.4.6
